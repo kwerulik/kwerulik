@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi there 👋
 
+👨‍🎓 CS & Econometrics student UG  
+💻 Programming: Python, JavaScript, SQL, C# | Web: HTML+CSS  
+📊 Passionate about data analysis, web development & finance  
+🚀 Exploring AI, machine learning & backend development  
+📫 Let's connect: kwerulik@gamail.com
 <!--
 **kwerulik/kwerulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
