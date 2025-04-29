@@ -2,7 +2,7 @@ Hi there 👋
 
 👨‍🎓 CS & Econometrics student UG  
 💻 Programming: Python, JavaScript, SQL, C# | Web: HTML+CSS  
-📊 Passionate about data analysis, web development & finance  
+📊 Passionate about data analysis, web development 
 🚀 Exploring AI, machine learning & backend development  
 📫 Let's connect: kwerulik@gamail.com
 <!--
