@@ -1,5 +1,4 @@
-Hi there 👋
-
+![Header](./github-header-image.png.pn)
 👨‍🎓 CS & Econometrics student UG  
 💻 Programming: Python, JavaScript, SQL, C# | Web: HTML+CSS  
 📊 Passionate about data analysis, web development 
