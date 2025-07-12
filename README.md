@@ -1,6 +1,6 @@
 👨‍🎓 CS & Econometrics student UG  
 💻 Programming: Python, SQL, C# | Web: HTML+CSS, JavaScript
-📊 Passionate about web development 
+
 
 <!--
 **kwerulik/kwerulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
